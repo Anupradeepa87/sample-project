@@ -1,0 +1,8 @@
+com\sticky\notes\service\StickyNotesService.class
+com\sticky\notes\model\StickyNotes.class
+com\sticky\notes\repository\StickyNotesRepository.class
+com\sticky\notes\model\User.class
+com\sticky\notes\service\UserService.class
+com\sticky\notes\Session5Application.class
+com\sticky\notes\controller\StickyNotesController.class
+com\sticky\notes\repository\UserRepository.class
